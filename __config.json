@@ -1,0 +1,7 @@
+{
+  "variables": {
+    "name": "Vue",
+    "vendor": "Heroku"
+  },
+  "postgen": "yarn install"
+}
